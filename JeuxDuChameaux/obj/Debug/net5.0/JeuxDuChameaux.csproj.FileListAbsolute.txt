@@ -1,0 +1,16 @@
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\bin\Debug\net5.0\JeuxDuChameaux.exe
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\bin\Debug\net5.0\JeuxDuChameaux.deps.json
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\bin\Debug\net5.0\JeuxDuChameaux.runtimeconfig.json
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\bin\Debug\net5.0\JeuxDuChameaux.runtimeconfig.dev.json
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\bin\Debug\net5.0\JeuxDuChameaux.dll
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\bin\Debug\net5.0\ref\JeuxDuChameaux.dll
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\bin\Debug\net5.0\JeuxDuChameaux.pdb
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\obj\Debug\net5.0\JeuxDuChameaux.csproj.AssemblyReference.cache
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\obj\Debug\net5.0\JeuxDuChameaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\obj\Debug\net5.0\JeuxDuChameaux.AssemblyInfoInputs.cache
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\obj\Debug\net5.0\JeuxDuChameaux.AssemblyInfo.cs
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\obj\Debug\net5.0\JeuxDuChameaux.csproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\obj\Debug\net5.0\JeuxDuChameaux.dll
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\obj\Debug\net5.0\ref\JeuxDuChameaux.dll
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\obj\Debug\net5.0\JeuxDuChameaux.pdb
+C:\Users\louis\source\repos\JeuxDuChameaux\JeuxDuChameaux\obj\Debug\net5.0\JeuxDuChameaux.genruntimeconfig.cache
